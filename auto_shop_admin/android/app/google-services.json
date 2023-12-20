@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1084354067592",
+    "firebase_url": "https://auto-shop-b91b2-default-rtdb.firebaseio.com",
+    "project_id": "auto-shop-b91b2",
+    "storage_bucket": "auto-shop-b91b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084354067592:android:237c84490e8778234db33d",
+        "android_client_info": {
+          "package_name": "com.example.auto_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084354067592-dhu3tkivu7opq5uj4rmnlg9362gvltdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIze8QFHtQFjlLov1icQRvZ-KEfAApblo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084354067592-dhu3tkivu7opq5uj4rmnlg9362gvltdd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1084354067592-rf1if5tuq9cjc3i1clkvollgmtlkj017.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.autoShop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084354067592:android:0a36f5aaf6b3a7bf4db33d",
+        "android_client_info": {
+          "package_name": "com.example.hostel_finder_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084354067592-dhu3tkivu7opq5uj4rmnlg9362gvltdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIze8QFHtQFjlLov1icQRvZ-KEfAApblo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084354067592-dhu3tkivu7opq5uj4rmnlg9362gvltdd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1084354067592-rf1if5tuq9cjc3i1clkvollgmtlkj017.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.autoShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
